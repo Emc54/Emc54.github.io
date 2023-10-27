@@ -1,5 +1,6 @@
 ---
 # the default layout is 'page'
+tab_name: Example
 icon: fas fa-file-lines
 order: 2
 ---
