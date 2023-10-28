@@ -54,3 +54,37 @@ Cortex M microcontrollers in the controller module.
   * Developed the prototype firmware for the
 microcontrollers, allowing validation of the design. This confirmed that I could safely start work on
 the second iteration without major blockers or critical design changes.
+
+<br>
+_July 2020 - August 2020_
+{:.h6}
+**FPGA Software Engineer** at **[Crystal Vision Ltd.](https://uk.linkedin.com/company/crystal-vision-limited), Whittlesford, UK**
+{:.h5}
+
+<div id="post-list" class="flex-grow-5 px-xl-1">
+<article class="card-wrapper card">
+      <div class="post-preview row g-0">
+      {% assign card_body_col = '12' %}
+        <div class="col-md-{{ card_body_col }}">
+          <div class="card-body d-flex flex-column">
+            <em class = "card-title my-0 mt-md-0">Summary</em>
+            <p class=" mb-1" style="color:rgb(175,176,177)">
+               Crystal Vision made infrastructure and keying products for professional broadcast engineers in the television industry. It helped people transition through a range of technologies, from SD to HD and from HD to IP. Part of their products included FPGA transceivers for high-speed parallel video streaming solutions. 
+            </p>
+            <!-- .post-meta -->
+            </div>
+          <!-- .card-body -->
+        </div>
+        </div>
+</article>
+</div>
+<br>
+
+A two-month internship that involved hands-on experience with custom FPGA transceivers reaching
+capabilities of 400Gb/s.
+* Tested three different FPGA chips by designing testing software in VHDL to produce eye-
+diagrams. 
+* Wrote software for optimisation of their low-level VHDL routines.
+
+This work performed manufacturing error checks while pushing the limitations of custom FPGA boards
+both in maximum capabilities and reliability of continuous operation.
