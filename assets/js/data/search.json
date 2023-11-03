@@ -1,8 +1,8 @@
 [
   
   {
-    "title": "First past the post",
-    "url": "/posts/A-first-post/",
+    "title": "Learning about Jekyll",
+    "url": "/posts/Learning-about-jekyll/",
     "categories": "",
     "tags": "",
     "date": "2023-10-27 21:37:12 +0100",
@@ -13,8 +13,93 @@
 
 
     
-    "snippet": "Markdown SyntaxIt’s easy to work with!",
-    "content": "Markdown SyntaxIt’s easy to work with!"
+    "snippet": "To be populated",
+    "content": "To be populated"
+  },
+  
+  {
+    "title": "Playing with CSS",
+    "url": "/posts/Playing-with-CSS/",
+    "categories": "",
+    "tags": "",
+    "date": "2023-07-12 23:00:00 +0100",
+    
+
+
+
+
+
+    
+    "snippet": "To be populated",
+    "content": "To be populated"
+  },
+  
+  {
+    "title": "Simple CTF games",
+    "url": "/posts/Simple-CTF-games/",
+    "categories": "",
+    "tags": "",
+    "date": "2023-06-10 21:00:11 +0100",
+    
+
+
+
+
+
+    
+    "snippet": "To be populated",
+    "content": "To be populated"
+  },
+  
+  {
+    "title": "A button for smartlights",
+    "url": "/posts/A-button-for-smartlights/",
+    "categories": "",
+    "tags": "",
+    "date": "2022-11-14 19:14:54 +0000",
+    
+
+
+
+
+
+    
+    "snippet": "To be populated",
+    "content": "To be populated"
+  },
+  
+  {
+    "title": "A sign made from LEDs",
+    "url": "/posts/A-static-LED-board/",
+    "categories": "",
+    "tags": "",
+    "date": "2022-11-11 19:14:54 +0000",
+    
+
+
+
+
+
+    
+    "snippet": "To be populatedThe LED sign",
+    "content": "To be populatedThe LED sign"
+  },
+  
+  {
+    "title": "ChipWhisperer experimentation",
+    "url": "/posts/ChipWhisperer-Experimentation/",
+    "categories": "",
+    "tags": "",
+    "date": "2022-02-15 18:30:00 +0000",
+    
+
+
+
+
+
+    
+    "snippet": "To be populated",
+    "content": "To be populated"
   }
   
 ]

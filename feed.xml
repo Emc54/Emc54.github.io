@@ -3,8 +3,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://emc54.github.io/</id>
   <title>Emilios C.</title>
-  <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2023-10-27T22:45:55+01:00</updated>
+  <subtitle>A personal site for documenting interesting things I've been up to.</subtitle>
+  <updated>2023-11-03T19:19:29+00:00</updated>
   <author>
     <name>Emilios Christou</name>
     <uri>https://emc54.github.io/</uri>
@@ -20,14 +20,14 @@
 
   
   <entry>
-    <title>First past the post</title>
-    <link href="https://emc54.github.io/posts/A-first-post/" rel="alternate" type="text/html" title="First past the post" />
+    <title>Learning about Jekyll</title>
+    <link href="https://emc54.github.io/posts/Learning-about-jekyll/" rel="alternate" type="text/html" title="Learning about Jekyll" />
     <published>2023-10-27T21:37:12+01:00</published>
   
     <updated>2023-10-27T21:37:12+01:00</updated>
   
-    <id>https://emc54.github.io/posts/A-first-post/</id>
-    <content src="https://emc54.github.io/posts/A-first-post/" />
+    <id>https://emc54.github.io/posts/Learning-about-jekyll/</id>
+    <content src="https://emc54.github.io/posts/Learning-about-jekyll/" />
     <author>
       <name>Emilios Christou</name>
     </author>
@@ -44,8 +44,142 @@
 
 
 
-      Markdown Syntax
-It’s easy to work with!
+      To be populated
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Playing with CSS</title>
+    <link href="https://emc54.github.io/posts/Playing-with-CSS/" rel="alternate" type="text/html" title="Playing with CSS" />
+    <published>2023-07-12T23:00:00+01:00</published>
+  
+    <updated>2023-07-12T23:00:00+01:00</updated>
+  
+    <id>https://emc54.github.io/posts/Playing-with-CSS/</id>
+    <content src="https://emc54.github.io/posts/Playing-with-CSS/" />
+    <author>
+      <name>Emilios Christou</name>
+    </author>
+
+  
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      To be populated
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Simple CTF games</title>
+    <link href="https://emc54.github.io/posts/Simple-CTF-games/" rel="alternate" type="text/html" title="Simple CTF games" />
+    <published>2023-06-10T21:00:11+01:00</published>
+  
+    <updated>2023-06-10T21:00:11+01:00</updated>
+  
+    <id>https://emc54.github.io/posts/Simple-CTF-games/</id>
+    <content src="https://emc54.github.io/posts/Simple-CTF-games/" />
+    <author>
+      <name>Emilios Christou</name>
+    </author>
+
+  
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      To be populated
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>A button for smartlights</title>
+    <link href="https://emc54.github.io/posts/A-button-for-smartlights/" rel="alternate" type="text/html" title="A button for smartlights" />
+    <published>2022-11-14T19:14:54+00:00</published>
+  
+    <updated>2022-11-14T19:14:54+00:00</updated>
+  
+    <id>https://emc54.github.io/posts/A-button-for-smartlights/</id>
+    <content src="https://emc54.github.io/posts/A-button-for-smartlights/" />
+    <author>
+      <name>Emilios Christou</name>
+    </author>
+
+  
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      To be populated
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>A sign made from LEDs</title>
+    <link href="https://emc54.github.io/posts/A-static-LED-board/" rel="alternate" type="text/html" title="A sign made from LEDs" />
+    <published>2022-11-11T19:14:54+00:00</published>
+  
+    <updated>2022-11-11T19:14:54+00:00</updated>
+  
+    <id>https://emc54.github.io/posts/A-static-LED-board/</id>
+    <content src="https://emc54.github.io/posts/A-static-LED-board/" />
+    <author>
+      <name>Emilios Christou</name>
+    </author>
+
+  
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      To be populated
+
+
+The LED sign
 
     </summary>
   
