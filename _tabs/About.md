@@ -15,22 +15,22 @@ Nam pulvinar consequat maximus. Vivamus vel rutrum lectus. Aliquam id justo faci
 
 _12/2021_
 
-Internal company hackathon participation and winner of the entertaining and creative award for sweater
+Internal company hackathon participation and winner of the entertaining and creative award for a sweater
 with a scrolling LED display. I am now involved in the organisation of any such future events.
 
 _07/2020_
 
 Electronics Projects Creator for Hercules Cambridge, a platform for people to learn practical work skills
 like CAD, hardware, and software design through hands-on projects. I was responsible for creating
-electronics projects with the aim of teaching useful applications of hardware in real-life situations.
+electronics projects to teach useful applications of hardware in real-life situations.
 
 _06/15 – 01/17_
 
-18-month Military Service in the Cypriot Army (Artillery), in which after national examination, achieved
-the rank of Second Lieutenant. As such, I oversaw of a squad composed of 20 private soldiers. The
+18-month (conscripted) military service in the Cypriot Army (Artillery), in which after national examination, achieved
+the rank of Second Lieutenant. As such, I oversaw a squad composed of 20 private soldiers. The
 experience has led to the improvement of my communication and leadership skills.
 
 _2015_
 
 First place award for the highest combined mark in the Pancyprian examination in Mathematics, Physics
-Chemistry, and the highest single mark in Greek. English IELTS with mark 8/9 (July-2012).
+Chemistry, and the highest single mark in Greek. English IELTS with mark 8/9 (July 2012).
