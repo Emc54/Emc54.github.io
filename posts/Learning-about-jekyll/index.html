@@ -47,7 +47,7 @@
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="Learning about Jekyll" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2023-10-27T21:37:12+01:00","datePublished":"2023-10-27T21:37:12+01:00","description":"Beginning the project","headline":"Learning about Jekyll","mainEntityOfPage":{"@type":"WebPage","@id":"https://emc54.github.io/posts/Learning-about-jekyll/"},"url":"https://emc54.github.io/posts/Learning-about-jekyll/"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2023-11-14T21:57:17+00:00","datePublished":"2023-10-27T21:37:12+01:00","description":"Beginning the project","headline":"Learning about Jekyll","mainEntityOfPage":{"@type":"WebPage","@id":"https://emc54.github.io/posts/Learning-about-jekyll/"},"url":"https://emc54.github.io/posts/Learning-about-jekyll/"}</script>
 <!-- End Jekyll SEO tag -->
 
   
@@ -502,6 +502,29 @@
 
       <!-- lastmod date -->
       
+        <span>
+          Updated
+          <!--
+  Date format snippet
+  See: ${JS_ROOT}/utils/locale-dateime.js
+-->
+
+
+
+
+<time
+  
+  data-ts="1699999037"
+  data-df="ll"
+  
+    data-bs-toggle="tooltip" data-bs-placement="bottom"
+  
+>
+  Nov 14, 2023
+</time>
+
+        </span>
+      
 
       
 
@@ -541,7 +564,7 @@
   class="readtime"
   data-bs-toggle="tooltip"
   data-bs-placement="bottom"
-  title="686 words"
+  title="683 words"
 >
   <em>3 min</em> read</span>
 
@@ -555,14 +578,14 @@
     <h2 id="beginning-the-project"><span class="me-2">Beginning the project</span><a href="#beginning-the-project" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h2>
 
 <p>I’ve understood how websites work on the surface level since I was a teenager.
-At various times, I started html documents and got them to display on a browser — simple text and images.
+At various times, I’ve started HTML documents and got them to display on a browser — simple text and images.
 But it still annoyed me that I couldn’t see how you’d jump from that to a shop page with reactive windows and custom animations.
-So after thinking about this from time to time, I finally decided to spend enough time to learn how to build a site.
+So after thinking about this from time to time, I finally decided to spend enough time learning how to build a site.
 The goal was/is a personal repository of past projects and some general information about myself.</p>
 
 <h2 id="starting-simple"><span class="me-2">Starting Simple</span><a href="#starting-simple" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h2>
 
-<p>At first, I got interested in CSS. 
+<p>At first, I got interested in CSS.
 I was inspired by the work of <a href="https://www.youtube.com/Hyperplexed">Hyperplexed</a> and tried to recreate some of their suggestions myself.
 My purpose was to get experience, and to achieve that I had to complete a small CSS task as presented, then try to modify it or add a personal element. More detail on how that went in the post about <a href="/posts/Playing-with-CSS/">Playing with CSS</a>.</p>
 
@@ -570,27 +593,28 @@ My purpose was to get experience, and to achieve that I had to complete a small 
 
 <p>I talked to friends and took inspiration from other sites until I stumbled upon 11nty as a simple static site generator.
 It looked easy to learn, and it boasted performance.
-So I navigated to github, I started looking into hosting one of their github pages. 
-There I discovered that Github integrates well with <a href="https://jekyllrb.com/">Jekyll</a>, and I would have to adjust many of their instructions to retrofit 11nty where Jekyll lived.
-So, since I haven’t spent any time in either static site generator, I ended up going with Jekyll. 
+So I navigated to GitHub and started looking into hosting one of their GitHub pages.
+There I discovered that GitHub integrates well with <a href="https://jekyllrb.com/">Jekyll</a>, and I would have to adjust many of their instructions to retrofit 11nty where Jekyll lived.
+So, since I haven’t spent any time in either static site generator, I ended up going with Jekyll.
 I don’t have the experience to be able to compare the two, although if I ever take up a new project, I might try 11nty so that I can see if I have an easier time getting started.</p>
 
 <h3 id="experimenting-with-themes"><span class="me-2">Experimenting with Themes</span><a href="#experimenting-with-themes" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h3>
 
-<p>Part of what attracted me to Jekyll is the available themes. 
-I had spent time in the past making decisions on how I wanted my site to look. 
+<p>Part of what attracted me to Jekyll is the available themes.
+I had spent time in the past making decisions on how I wanted my site to look.
 This took a lot of time I was willing to reinvest to port into Jekyll.
-However, Github showed that there are existing themes out there, and it was surprisingly easy to find a theme that was close enough to what I wanted to achieve.
-I ended up with the Chirpy theme, and spent some time trying to migrate my existing first draft from the default theme to Chirpy. 
-This lead me to discover that Chirpy is using a newer version of Jekyll than github-pages, and therefore the github workflow that exists would not build properly.</p>
+However, GitHub showed that there are existing themes out there, and it was surprisingly easy to find a theme that was close enough to what I wanted to achieve.
+I ended up with the Chirpy theme and spent some time trying to migrate my existing first draft from the default theme to Chirpy.
+This led me to discover that Chirpy is using a newer version of Jekyll than GitHub-pages, and therefore the GitHub workflow that exists would not build properly.</p>
 
-<p>Although this was discouraging, I tried multiple ways of integrating Chirpy, and automating the building and deployment of the site. 
+<p>Although this was discouraging, I tried multiple ways of integrating Chirpy and automating the building and deployment of the site.
 I ended up with an approach where I would build the assets locally, and have a script to upload them to a separate branch, where the site lived.
-Even so, the implementation of the Chirpy theme wasn’t all there, and I was clearing having configuration issues.
+Even so, the implementation of the Chirpy theme wasn’t all there, and I was having configuration issues.
 So I bit the bullet, renamed and archived the repository, and started from scratch using the Chirpy template repository.
 It was a breath of fresh air.</p>
 
 <h3 id="customisation"><span class="me-2">Customisation</span><a href="#customisation" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h3>
+
 <div class="language-bash highlighter-rouge"><div class="code-header">
         <span data-label-text="Shell"><i class="fas fa-code fa-fw small"></i></span>
       <button aria-label="copy" data-title-succeed="Copied!"><i class="far fa-clipboard"></i></button></div><div class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
@@ -606,9 +630,10 @@ Jekyll <span class="c"># using Chirpy</span>
 │   └── Ruby <span class="c"># Builds the HTML/SCSS/Js assets</span>
 └── kramdown <span class="c"># Converts MD documents to HTML</span>
 </pre></td></tr></tbody></table></code></div></div>
-<p>Having set up the theme, I immediately realised that some of the changes I wanted to perform where non-modifiable unless the theme itself was edited.
-After I did all the modifications I wanted, I built the site locally instead of deploying it through github.
-Then I and uploaded it to its own branch.</p>
+
+<p>Having set up the theme, I immediately realised that some of the changes I wanted to perform were non-modifiable unless the theme itself was edited.
+After I made all the modifications I wanted, I built the site locally instead of deploying it through GitHub.
+Then I uploaded it to its own branch.</p>
 
 <p>Now adding new posts doesn’t rely on anything besides markdown, so this procedure can be automated again.
 I did need to capture the <a href="/assets/files/custom-jekyll-theme-chirpy-6.2.3.zip">changes</a>, as updating the Gem theme file from Ruby would wipe them all.
@@ -732,6 +757,28 @@ Other than that, the only other things I needed to tweak were the <code class="l
 
 
 
+
+  <section id="access-lastmod">
+    <h2 class="panel-heading">Recently Updated</h2>
+    <ul class="content list-unstyled ps-0 pb-1 ms-1 mt-2">
+      
+        
+        
+        
+        <li class="text-truncate lh-lg">
+          <a href="/posts/Playing-with-CSS/">Playing with CSS</a>
+        </li>
+      
+        
+        
+        
+        <li class="text-truncate lh-lg">
+          <a href="/posts/Learning-about-jekyll/">Learning about Jekyll</a>
+        </li>
+      
+    </ul>
+  </section>
+  <!-- #access-lastmod -->
 
 
               <!-- The trending tags list -->
