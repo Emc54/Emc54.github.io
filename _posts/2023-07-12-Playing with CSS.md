@@ -31,13 +31,24 @@ This would help me confirm that I've consolidated the knowledge I've learned dur
 
 ### Card Edge Highlight
 
-A stylised card class that has a subtle hover effect on its side
+A stylised card class that has a subtle hover effect on its side.
 
-![Hovering effect on a card](/assets/img/playing-with-css/CardHover.gif){: width="500" height="300"}
+![Hovering effect on a card](/assets/img/playing-with-css/CardHover.gif){: width="1080" height="300"}
+_Hovering over multiple cards_
 
 ### Curtain rise effect
 
+An image splash screen with site navigation hidden behind a curtain.
+
+![A curtain effect](/assets/img/playing-with-css/CurtainRise.gif){: width="1080" height="500"}
+_Curtain Rise Transition_
+
 ### Cloud following the mouse
+
+An effect on the cursor loading with the website and following any movement.
+
+![Cloud follower](/assets/img/playing-with-css/MouseBlob.gif){: width="1080" height="500"}
+_Rotating, faded, and following the mouse_
 
 ### Twitch card
 
