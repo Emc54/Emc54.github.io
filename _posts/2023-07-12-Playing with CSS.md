@@ -52,4 +52,15 @@ _Rotating, faded, and following the mouse_
 
 ### Twitch card
 
-### Center clock
+A shimmer effect that was found on Twitch, for phones.
+
+![Colourful Transition Card](/assets/img/playing-with-css/TwitchCard.gif){: width="250" height="540"}
+_Clunky text transition animation and control over the background dots_
+
+### Rotating Clock
+
+A silly clock 4320 times faster than a seconds clock.
+Multiplying the animation by that number would make it a 12h clock.
+
+![Purple Clock](/assets/img/playing-with-css/Clock.gif){: width="540" height="250"}
+_A clock completing one rotation every 10 seconds_
