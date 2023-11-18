@@ -47,8 +47,8 @@
 
 
     
-    "snippet": "To be populated",
-    "content": "To be populated"
+    "snippet": "Adventures in CTF activitiesOnce in a while, I want a riddle or a puzzle to solve.Capture-the-flag challenges are always able to scratch this itch.So I’ll spend an afternoon going through an intere...",
+    "content": "Adventures in CTF activitiesOnce in a while, I want a riddle or a puzzle to solve.Capture-the-flag challenges are always able to scratch this itch.So I’ll spend an afternoon going through an interesting challenge page that I found.Here are some examples:pwn.collegeAn interactive education platform for Arizona State University to complement its Cybersecurity and Computer Systems Security courses.Open to everyone, and accompanied by lectures, Q&amp;As, and a discord server.  This is an at-your-own-pace challenge set, while CTFs are usually time-restricted.OverTheWireCTF challenges over an SSH connection for the most part.Categorised from simplest to hardest on their site from the top down.Each flag is the password to use for the next SSH challenge.They are generated according to your user, so finding flags from other people is not going to help you advance.Great sources for infoThe data I have been gathering for these challenges came from:  zaratec.io  ctftime"
   },
   
   {
