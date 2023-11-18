@@ -3,7 +3,7 @@
 layout: post
 tab_name: CV
 icon: fas fa-file-lines
-order: 2
+order: 5
 toc: true
 title: Resumé
 ---
@@ -22,7 +22,7 @@ _September 2021 - Present_
           <div class="card-body d-flex flex-column">
             <em class = "card-title my-0 mt-md-0">Company Summary</em>
             <p class=" mb-1" style="color:rgb(175,176,177)">
-                The Data Protection Solutions sector of Entrust in Cambridge focusing on Hardware security modules (HSMs).
+                The Data Protection Solutions sector of Entrust in Cambridge focuses on Hardware Security Modules (HSMs).
                 They are hardened, tamper-resistant hardware devices that secure cryptographic processes by generating, protecting, and managing keys used for encrypting and decrypting data and creating digital signatures and certificates.
             </p>
             <!-- .post-meta -->
