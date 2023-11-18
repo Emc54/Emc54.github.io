@@ -4,7 +4,7 @@
   <id>https://emc54.github.io/</id>
   <title>Emilios C.</title>
   <subtitle>A personal site for documenting interesting things I've been up to.</subtitle>
-  <updated>2023-11-17T16:58:52+00:00</updated>
+  <updated>2023-11-18T18:23:15+00:00</updated>
   <author>
     <name>Emilios Christou</name>
     <uri>https://emc54.github.io/</uri>
@@ -99,7 +99,7 @@ It looked jarring and it felt like a ton of work to stylise any given ...
     <link href="https://emc54.github.io/posts/Simple-CTF-games/" rel="alternate" type="text/html" title="Simple CTF games" />
     <published>2023-06-10T21:00:11+01:00</published>
   
-    <updated>2023-06-10T21:00:11+01:00</updated>
+    <updated>2023-11-18T18:20:18+00:00</updated>
   
     <id>https://emc54.github.io/posts/Simple-CTF-games/</id>
     <content src="https://emc54.github.io/posts/Simple-CTF-games/" />
@@ -119,8 +119,16 @@ It looked jarring and it felt like a ton of work to stylise any given ...
 
 
 
-      To be populated
+      Adventures in CTF activities
 
+Once in a while, I want a riddle or a puzzle to solve.
+Capture-the-flag challenges are always able to scratch this itch.
+So I’ll spend an afternoon going through an interesting challenge page that I found.
+Here are some examples:
+
+pwn.college
+
+An interactive education platform for Arizona State University to complement its Cybersecurity and Computer Systems Securit...
     </summary>
   
 
