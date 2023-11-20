@@ -7,11 +7,20 @@ title: Emilios Christou
 subtitle: Hardware Design Engineer, Firmware and Software Enthusiast 
 ---
 
-![Profile Pic](/assets/img/LEDSign.jpg){: width="400" .padded-right}
+![Profile Pic](/assets/img/test.jpg){: width="200" .padded-right style="border-radius: 25px;"}
 
- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec consectetur lacus eu sapien suscipit venenatis. Duis lacus leo, tincidunt nec ipsum nec, pretium tristique nulla. Maecenas sed ipsum erat. Mauris non felis ornare, porttitor magna sed, posuere ante. Fusce eu mattis lectus. Nullam gravida molestie nibh ut egestas. In nulla dui, fringilla a iaculis et, faucibus vel odio. Aenean at consectetur orci, ut consequat libero. Duis justo tellus, vehicula vel gravida nec, blandit non enim. Pellentesque pellentesque at augue id pulvinar. Etiam mattis venenatis purus at euismod. In hac habitasse platea dictumst. Nullam magna mauris, aliquet vitae consequat vitae, mollis quis risus. Sed ut euismod mauris, sit amet egestas lacus. Nulla facilisi.
+ I have two years of experience in hardware electronics design and software engineering.
+ I enjoy discovering, learning, and understanding new technologies to find interesting ways of using them.
 
-Nam pulvinar consequat maximus. Vivamus vel rutrum lectus. Aliquam id justo facilisis, tincidunt justo dignissim, ultrices metus. Duis augue velit, rutrum sed leo nec, elementum consectetur nunc. Cras semper lorem eu maximus suscipit. Ut lacinia imperdiet libero sed eleifend. Vestibulum semper, lorem eget mollis ultrices, felis justo pretium risus, a semper est massa at lorem. Sed et facilisis mi. Sed eget nunc id felis ornare egestas quis non lorem. Mauris non arcu aliquam, dapibus massa in, accumsan odio. Phasellus finibus eu orci vitae posuere.
+ I usually find areas of technology that I have not been exposed to and try to understand their fundamentals through practice, or creating a project to complete.
+ A good showcase of what I am currently thinking about would be on the [Projects](/Projects) tab.
+
+ I also enjoy puzzles and games as a way of challenging my creativity and lateral thinking.
+ A recent favourite is variant sudoku ([killer](http://sudopedia.enjoysudoku.com/Killer.html), [thermo](https://masteringsudoku.com/thermo-sudoku/), and [GAS](https://missingdeck.net/gas-collection-1) - daily random approachable puzzles.)
+ I'd also try a cryptic crossword once in a while if there's a newspaper around.
+ As for games, recent interesting ones were [Tunic](https://store.steampowered.com/app/553420/TUNIC/), [Chants of Sennaar](https://store.steampowered.com/app/1931770/Chants_of_Sennaar/), and [Outer Wilds](https://store.steampowered.com/app/753640/Outer_Wilds/).
+
+## Accomplishments
 
 ### 12/2021
 
