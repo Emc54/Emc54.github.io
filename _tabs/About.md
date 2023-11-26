@@ -7,7 +7,7 @@ title: Emilios Christou
 subtitle: Hardware Design Engineer, Firmware and Software Enthusiast 
 ---
 
-![Profile Pic](/assets/img/test.jpg){: width="200" .padded-right style="border-radius: 25px;"}
+![Profile Pic](/assets/img/atwork.jpg){: width="300" .padded-right style="border-radius: 25px;"}
 
  I have two years of experience in hardware electronics design and software engineering.
  I enjoy discovering, learning, and understanding new technologies to find interesting ways of using them.
