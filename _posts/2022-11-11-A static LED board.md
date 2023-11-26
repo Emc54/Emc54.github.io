@@ -63,4 +63,16 @@ It was certainly simpler than trying to establish the handshake for 9V.
 ![wiring](/assets/img/LEDSign/LEDwiring.jpg){: w="500" }
 _Completed the wiring of resistors and links. Only (!) the LEDs were left._
 
-## Controlling the power
+## Powering it up
+
+I was testing the circuit at various points in time via an external power supply and crocodile clips.
+After I confirmed that all the lights came on as expected and stabilised in all four configurations, I started thinking about switches.
+The system needed to work in two of the four possible modes (Green ON Red ON, and Green ON Red OFF).
+If I had two separate power supplies I could have established a three-position switch, but that would not be cost-effective so I had to end up with two switches in the end.
+
+Here are pictures of the states the sign can be in now.
+There is a future where I 3D-print a case for the sign, but as is I like being able to see both sides.
+
+![LED-do-disturb](/assets/img/LEDSign/LED-do-disturb.jpg){: w="500" }
+
+![LED-do-not-disturb](/assets/img/LEDSign/LED-do-not-disturb.jpg){: w="500" }
