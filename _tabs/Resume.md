@@ -8,6 +8,8 @@ toc: true
 title: Resumé
 ---
 
+[PDF Version](/assets/files/Christou_CV.pdf)
+
 ## Work Experience
 
 ### Electrical Engineer II at [ENTRUST Corp. DPS](https://www.entrust.com/digital-security/hsm), Cambridge, UK
