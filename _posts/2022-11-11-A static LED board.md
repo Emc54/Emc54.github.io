@@ -3,6 +3,7 @@ title: A sign made from LEDs
 date: 2022-11-11 19:14:54 +0000
 categories: #[TOP_CATEGORIE, SUB_CATEGORIE]
 tags: #[TAG]     # TAG names should always be lowercase
+img_path: /assets/img/LEDSign/
 ---
 
 ## An introvert's suggestion
@@ -22,7 +23,7 @@ So I thought, if the NOT lights are a different circuit from the DO and DISTURB 
 Then you could have a DO DISTURB, and a DO NOT DISTURB all at once!
 
 So I started with a Veroboard, and bought a packet of 50 LEDs for red and green and arranged them to my design.
-![The LED Sign](/assets/img/LEDSign/LEDSign.jpg){: width="400" height="250" }
+![The LED Sign](LEDSign.jpg){: width="500" height="250" }
 _Arranging the LEDs_
 
 ## Designing the circuit
@@ -39,7 +40,7 @@ It didn't evolve to be something more complicated than it needed to be, and it h
 That was great, as it was a challenge to try and design everything mirrored, and now that wasn't necessary.
 Care was still needed, but the mirror button was an excellent proof-checker.
 
-![wishful beginnings](/assets/img/LEDsign/LED-prototyping.png){: w="500" }
+![wishful beginnings](LED-prototyping.png){: w="500" }
 _First attempt at wiring up the sign_
 
 Halfway through the first row, I realised that trying to wire up all the LEDs in pairs would be too cramped.
@@ -47,7 +48,7 @@ It was at this stage that I switched to 9 Volts for power and 3 LEDs in a row.
 This change in combination with some clever arrangement and a slightly bigger board, meant I could just squeeze everything in for the final design.
 Two evenings of work later (for some LEDs!) and I got this design ready to implement.
 
-![The design](/assets/img/LEDSign/LED-design.png){: w="500" }
+![The design](LED-design.png){: w="500" }
 _The completed design, expanded a bit_
 
 ## Creating it physically
@@ -60,8 +61,11 @@ Here's a picture partway through the design.
 Everything was powered by USB-C at the time, but eventually, I switched to a barrel-jack supply.
 It was certainly simpler than trying to establish the handshake for 9V.
 
-![wiring](/assets/img/LEDSign/LEDwiring.jpg){: w="500" }
+![wiring](LEDwiring.jpg){: w="500" }
 _Completed the wiring of resistors and links. Only (!) the LEDs were left._
+
+![LEDs wired](LED-backside.jpg){: w="500" }
+_Completed design - Backside_
 
 ## Powering it up
 
@@ -72,7 +76,9 @@ If I had two separate power supplies I could have established a three-position s
 
 Here are pictures of the states the sign can be in now.
 There is a future where I 3D-print a case for the sign, but as is I like being able to see both sides.
+My only gripe is that the LEDs I bought in bulk clearly came from different batches even though I hoped they'd be identical.
+But what can you do, the imperfections are what make it unique.
 
-![LED-do-disturb](/assets/img/LEDSign/LED-do-disturb.jpg){: w="500" }
+![LED-do-disturb](LED-do-disturb.jpg){: w="500" }
 
-![LED-do-not-disturb](/assets/img/LEDSign/LED-do-not-disturb.jpg){: w="500" }
+![LED-do-not-disturb](LED-do-not-disturb.jpg){: w="500" }
