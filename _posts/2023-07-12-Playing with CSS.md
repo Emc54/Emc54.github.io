@@ -2,7 +2,7 @@
 title: Playing with CSS
 date: 2023-07-12 22:00:00 +0000
 categories: #[TOP_CATEGORY, SUB_CATEGORY]
-tags: #[TAG]     # TAG names should always be lowercase
+tags: [webpages]     # TAG names should always be lowercase
 ---
 
 ## Motivation
