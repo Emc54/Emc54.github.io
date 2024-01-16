@@ -2,7 +2,7 @@
 title: A sign made from LEDs
 date: 2022-11-11 19:14:54 +0000
 categories: #[TOP_CATEGORIE, SUB_CATEGORIE]
-tags: #[TAG]     # TAG names should always be lowercase
+tags: [electronics]     # TAG names should always be lowercase
 img_path: /assets/img/LEDSign/
 ---
 

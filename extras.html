@@ -1,0 +1,25 @@
+---
+layout: page
+# All the extra pages
+---
+
+{% include lang.html %}
+
+<article class="px-1">
+  <header>
+    <h1 class="dynamic-title">
+      Site Pages
+    </h1>
+    <p class="site-subtitle fst-italic mb-0">
+      <i>A collection of miscellaneous pages on the site</i>
+    </p>
+    <br>
+  </header>
+  <div class="pl-xl-1">
+    {% for page in site.extras %}
+      <li style="list-style: none;">
+        <a href="{{ page.url | relative_url }}">{{ page.title }}</a>
+      </li>
+    {% endfor %}
+  </div>
+</article>

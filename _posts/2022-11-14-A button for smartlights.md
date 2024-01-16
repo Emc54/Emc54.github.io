@@ -2,7 +2,7 @@
 title: A button for smart lights
 date: 2022-11-14 19:14:54 +0000
 categories: #[TOP_CATEGORIE, SUB_CATEGORIE]
-tags: #[TAG]     # TAG names should always be lowercase
+tags: [electronics]     # TAG names should always be lowercase
 ---
 
 You can do two things when buying a knock-off product:

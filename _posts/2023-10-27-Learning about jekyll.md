@@ -2,7 +2,7 @@
 title: Learning about Jekyll
 date: 2023-10-27 20:37:12 +0000
 categories: #[TOP_CATEGORY, SUB_CATEGORY]
-tags: #[TAG]     # TAG names should always be lowercase
+tags: [webpages]     # TAG names should always be lowercase
 ---
 
 ## Beginning the project
@@ -21,7 +21,7 @@ My purpose was to get experience, and to achieve that I had to complete a small 
 
 ## Discovering Jekyll
 
-I talked to friends and took inspiration from other sites until I stumbled upon 11nty as a simple static site generator.
+I talked to friends and took inspiration from other sites until I stumbled upon **11nty** as a simple static site generator.
 It looked easy to learn, and it boasted performance.
 So I navigated to GitHub and started looking into hosting one of their GitHub pages.
 There I discovered that GitHub integrates well with [Jekyll](https://jekyllrb.com/), and I would have to adjust many of their instructions to retrofit 11nty where Jekyll lived.

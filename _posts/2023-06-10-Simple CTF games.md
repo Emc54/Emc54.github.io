@@ -2,7 +2,7 @@
 title: Simple CTF games
 date: 2023-06-10 20:00:11 +0000
 categories: #[TOP_CATEGORY, SUB_CATEGORY]
-tags: #[TAG]     # TAG names should always be lowercase
+tags: [cybersec]     # TAG names should always be lowercase
 ---
 
 ## Adventures in CTF activities
