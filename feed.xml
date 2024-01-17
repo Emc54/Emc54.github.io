@@ -4,7 +4,7 @@
   <id>https://emc54.github.io/</id>
   <title>Emilios C.</title>
   <subtitle>A personal site for documenting interesting things I've been up to.</subtitle>
-  <updated>2024-01-15T22:35:49+00:00</updated>
+  <updated>2024-01-17T00:37:06+00:00</updated>
   <author>
     <name>Emilios Christou</name>
     <uri>https://emc54.github.io/</uri>
@@ -24,7 +24,7 @@
     <link href="https://emc54.github.io/posts/Learning-about-jekyll/" rel="alternate" type="text/html" title="Learning about Jekyll" />
     <published>2023-10-27T21:37:12+01:00</published>
   
-    <updated>2023-11-14T21:57:17+00:00</updated>
+    <updated>2024-01-16T01:04:50+00:00</updated>
   
     <id>https://emc54.github.io/posts/Learning-about-jekyll/</id>
     <content src="https://emc54.github.io/posts/Learning-about-jekyll/" />
@@ -61,7 +61,7 @@ So after thinking about this from time to time, I finally...
     <link href="https://emc54.github.io/posts/Playing-with-CSS/" rel="alternate" type="text/html" title="Playing with CSS" />
     <published>2023-07-12T23:00:00+01:00</published>
   
-    <updated>2023-11-17T16:58:23+00:00</updated>
+    <updated>2024-01-16T01:04:50+00:00</updated>
   
     <id>https://emc54.github.io/posts/Playing-with-CSS/</id>
     <content src="https://emc54.github.io/posts/Playing-with-CSS/" />
@@ -99,7 +99,7 @@ It looked jarring and it felt like a ton of work to stylise any given ...
     <link href="https://emc54.github.io/posts/Simple-CTF-games/" rel="alternate" type="text/html" title="Simple CTF games" />
     <published>2023-06-10T21:00:11+01:00</published>
   
-    <updated>2023-11-18T18:20:18+00:00</updated>
+    <updated>2024-01-16T01:04:50+00:00</updated>
   
     <id>https://emc54.github.io/posts/Simple-CTF-games/</id>
     <content src="https://emc54.github.io/posts/Simple-CTF-games/" />
@@ -140,7 +140,7 @@ An interactive education platform for Arizona State University to complement its
     <link href="https://emc54.github.io/posts/A-button-for-smartlights/" rel="alternate" type="text/html" title="A button for smart lights" />
     <published>2022-11-14T19:14:54+00:00</published>
   
-    <updated>2023-11-26T01:01:50+00:00</updated>
+    <updated>2024-01-16T01:04:50+00:00</updated>
   
     <id>https://emc54.github.io/posts/A-button-for-smartlights/</id>
     <content src="https://emc54.github.io/posts/A-button-for-smartlights/" />
@@ -180,7 +180,7 @@ Will the second approach cost m...
     <link href="https://emc54.github.io/posts/A-static-LED-board/" rel="alternate" type="text/html" title="A sign made from LEDs" />
     <published>2022-11-11T19:14:54+00:00</published>
   
-    <updated>2023-11-27T18:43:12+00:00</updated>
+    <updated>2024-01-16T01:04:50+00:00</updated>
   
     <id>https://emc54.github.io/posts/A-static-LED-board/</id>
     <content src="https://emc54.github.io/posts/A-static-LED-board/" />
