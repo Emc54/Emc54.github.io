@@ -4,7 +4,7 @@
     "title": "Learning about Jekyll",
     "url": "/posts/Learning-about-jekyll/",
     "categories": "",
-    "tags": "",
+    "tags": "webpages",
     "date": "2023-10-27 21:37:12 +0100",
     
 
@@ -21,7 +21,7 @@
     "title": "Playing with CSS",
     "url": "/posts/Playing-with-CSS/",
     "categories": "",
-    "tags": "",
+    "tags": "webpages",
     "date": "2023-07-12 23:00:00 +0100",
     
 
@@ -38,7 +38,7 @@
     "title": "Simple CTF games",
     "url": "/posts/Simple-CTF-games/",
     "categories": "",
-    "tags": "",
+    "tags": "cybersec",
     "date": "2023-06-10 21:00:11 +0100",
     
 
@@ -55,7 +55,7 @@
     "title": "A button for smart lights",
     "url": "/posts/A-button-for-smartlights/",
     "categories": "",
-    "tags": "",
+    "tags": "electronics",
     "date": "2022-11-14 19:14:54 +0000",
     
 
@@ -72,7 +72,7 @@
     "title": "A sign made from LEDs",
     "url": "/posts/A-static-LED-board/",
     "categories": "",
-    "tags": "",
+    "tags": "electronics",
     "date": "2022-11-11 19:14:54 +0000",
     
 
