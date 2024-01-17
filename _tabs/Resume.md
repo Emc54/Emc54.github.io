@@ -1,14 +1,15 @@
 ---
 # the default layout is 'page'
-layout: post
+layout: resume
 tab_name: CV
 icon: fas fa-file-lines
 order: 5
 toc: true
 title: Resumé
 ---
-
-[PDF Version](/assets/files/Christou_CV.pdf)
+<div style="text-align: right">
+<a href="/assets/files/Christou_CV.pdf"> PDF Version of CV</a>
+</div>
 
 ## Work Experience
 
@@ -97,7 +98,7 @@ diagrams.
 * Implemented algorithms for optimisation of their low-level VHDL routines.
 
 This work performed manufacturing error checks while pushing the limitations of custom FPGA boards
-both in maximum capabilities and reliability of continuous operation.
+both in maximum capabilities and reliability of continuous operation. ([More Information]({% link _extras/CrystalVision.md %}))
 
 <br>
 
@@ -129,7 +130,7 @@ _July 2019 - August 2019_
 A two-month internship at the company, in which I was part of a project involving the development of a
 custom ASIC solution for a pressure-controlled haptic feedback device.
 I used Vivado to program an FPGA to interface with Python via a Jupiter Notebook, to incorporate
-simulation tests previously running on a PC to increase the portability of the overall design.
+simulation tests previously running on a PC to increase the portability of the overall design. ([More Information]({% link _extras/Swindon.md %}))
 
 ## Education
 
