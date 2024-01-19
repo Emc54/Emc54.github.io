@@ -4,7 +4,7 @@ layout: resume
 tab_name: CV
 icon: fas fa-file-lines
 order: 5
-toc: true
+toc: false
 title: Resumé
 ---
 <div style="text-align: right">
