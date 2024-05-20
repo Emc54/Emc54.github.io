@@ -5,7 +5,7 @@ tab_name: CV
 icon: fas fa-file-lines
 order: 5
 toc: false
-title: Resumé
+title: Résumé 
 ---
 <div style="text-align: right">
 <a href="/assets/files/Christou_CV.pdf"> PDF Version of CV</a>
