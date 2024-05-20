@@ -14,7 +14,7 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Emilios C. # the main title
+title: Emilios # the main title
 
 tagline: Having fun with puzzles! # it will display as the sub-title
 
@@ -162,8 +162,8 @@ defaults:
       path: assets/js/dist
     values:
       swcache: true
- 
-      
+
+
 
 sass:
   style: compressed
