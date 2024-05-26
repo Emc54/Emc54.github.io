@@ -17,42 +17,15 @@ title: Résumé
 <hr>
 _September 2021 - Present_
 
-<div id="post-list" class="flex-grow-5 px-xl-1">
-<article class="card-wrapper card">
-      <div class="post-preview row g-0">
-      {% assign card_body_col = '12' %}
-        <div class="col-md-{{ card_body_col }}">
-          <div class="card-body d-flex flex-column">
-            <em class = "card-title my-0 mt-md-0">Company Summary</em>
-            <p class=" mb-1" style="color:rgb(175,176,177)">
-                The Data Protection Solutions sector of Entrust in Cambridge focuses on Hardware Security Modules (HSMs).
-                They are hardened, tamper-resistant hardware devices that secure cryptographic processes by generating, protecting, and managing keys used for encrypting and decrypting data and creating digital signatures and certificates.
-            </p>
-            <!-- .post-meta -->
-            </div>
-          <!-- .card-body -->
-        </div>
-        </div>
-</article>
-</div>
-<br>
-
 My current position as an Electrical Engineer II, which amounts to the tasks of a hardware design
 engineer within the company.
 
 * **Designed** a PCB, tested, and wrote the firmware for an [RP2040-based](https://thepihut.com/products/tiny-2040) power
 monitoring interposer on a PCIe interface.
-  * Used in development for data collection.
-  * Will be used in production to automate the detection of software updates that increase the power
-draw of our hardware, thus improving unit reliability.
 * **Developed** two iterations of a controller module for a
 [1U rack server](https://www.entrust.com/digital-security/hsm/products/nshield-hsms/nshield-connect) using ARM Cortex M microcontrollers.
-  * Used to extend the lifetime of an existing product to include around 3000 more units.
 * **Currently tackling** the development of future products alongside the 5-person hardware team,
-mainly the next generation of the 1U server appliance:
-  * Developed PCBs for the overall chassis,
-  * Designed testing to improve performance, with a focus on cooling experiments.
-    * Data gathered through the cooling experiments has led to a 33% decrease in temperature with the same power usage.
+mainly the next generation of the 1U server appliance.
 
 For 3 months (Jun – Aug 2023), I moved across the organisation to take the role of a software
 engineer.
@@ -70,25 +43,6 @@ the second iteration without major blockers or critical design changes.
 <hr>
 _July 2020 - August 2020_
 {:.h6}
-
-<div id="post-list" class="flex-grow-5 px-xl-1">
-<article class="card-wrapper card">
-      <div class="post-preview row g-0">
-      {% assign card_body_col = '12' %}
-        <div class="col-md-{{ card_body_col }}">
-          <div class="card-body d-flex flex-column">
-            <em class = "card-title my-0 mt-md-0">Company Summary</em>
-            <p class=" mb-1" style="color:rgb(175,176,177)">
-               Crystal Vision made infrastructure and keying products for professional broadcast engineers in the television industry. It helped people transition through a range of technologies, from SD to HD and from HD to IP. Part of their products included FPGA transceivers for high-speed parallel video streaming solutions.
-            </p>
-            <!-- .post-meta -->
-            </div>
-          <!-- .card-body -->
-        </div>
-        </div>
-</article>
-</div>
-<br>
 
 A two-month internship that involved hands-on experience with custom FPGA transceivers reaching
 capabilities of 400Gb/s.
@@ -108,24 +62,6 @@ both in maximum capabilities and reliability of continuous operation. ([More Inf
 _July 2019 - August 2019_
 {:.h6}
 
-<div id="post-list" class="flex-grow-5 px-xl-1">
-<article class="card-wrapper card">
-      <div class="post-preview row g-0">
-      {% assign card_body_col = '12' %}
-        <div class="col-md-{{ card_body_col }}">
-          <div class="card-body d-flex flex-column">
-            <em class = "card-title my-0 mt-md-0">Company Summary</em>
-            <p class=" mb-1" style="color:rgb(175,176,177)">
-               Swindon Silicon Systems is a global leader in the design and supply of automotive and industrial mixed-signal ASIC solutions.
-            </p>
-            <!-- .post-meta -->
-            </div>
-          <!-- .card-body -->
-        </div>
-        </div>
-</article>
-</div>
-<br>
 
 A two-month internship at the company, in which I was part of a project involving the development of a
 custom ASIC solution for a pressure-controlled haptic feedback device.

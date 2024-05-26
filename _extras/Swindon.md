@@ -6,6 +6,25 @@ img_path: /assets/img/internships/
 
 ## Who is Swindon Silicon Systems?
 
+<div id="post-list" class="flex-grow-5 px-xl-1">
+<article class="card-wrapper card">
+      <div class="post-preview row g-0">
+      {% assign card_body_col = '12' %}
+        <div class="col-md-{{ card_body_col }}">
+          <div class="card-body d-flex flex-column">
+            <em class = "card-title my-0 mt-md-0">Company Summary</em>
+            <p class=" mb-1" style="color:rgb(175,176,177)">
+               Swindon Silicon Systems is a global leader in the design and supply of automotive and industrial mixed-signal ASIC solutions.
+            </p>
+            <!-- .post-meta -->
+            </div>
+          <!-- .card-body -->
+        </div>
+        </div>
+</article>
+</div>
+<br>
+
 ![Company Info](swindon1.png)
 
 ## The problem to be addressed
