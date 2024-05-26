@@ -2,9 +2,9 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://emc54.github.io/</id>
-  <title>Emilios C.</title>
+  <title>Emilios</title>
   <subtitle>A personal site for documenting interesting things I've been up to.</subtitle>
-  <updated>2024-03-31T18:58:38+01:00</updated>
+  <updated>2024-05-26T04:21:05+01:00</updated>
   <author>
     <name>Emilios Christou</name>
     <uri>https://emc54.github.io/</uri>
@@ -12,7 +12,7 @@
   <link rel="self" type="application/atom+xml" href="https://emc54.github.io/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
     href="https://emc54.github.io/"/>
-  <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
+  <generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator>
   <rights> © 2024 Emilios Christou </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
@@ -20,11 +20,48 @@
 
   
   <entry>
+    <title>A New Framework (Laptop)</title>
+    <link href="https://emc54.github.io/posts/Impressons-from-my-Framework-Laptop/" rel="alternate" type="text/html" title="A New Framework (Laptop)" />
+    <published>2024-05-25T22:04:11+01:00</published>
+  
+    <updated>2024-05-25T22:04:11+01:00</updated>
+  
+    <id>https://emc54.github.io/posts/Impressons-from-my-Framework-Laptop/</id>
+    <content src="https://emc54.github.io/posts/Impressons-from-my-Framework-Laptop/" />
+    <author>
+      <name>Emilios Christou</name>
+    </author>
+
+  
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      The drive for a change
+Going into university, I got a new laptop to assist me with my studies.
+This was 7+ years ago now, and even the mid-life hardware updates I had performed to give it a new life and make it feel fresh again were not cutting it.
+So after freshly installing Windows on it did not improve its start time, I was once again looking for a new machine after so long.
+
+My requirements...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
     <title>Functional Programming (using Ocaml)</title>
     <link href="https://emc54.github.io/posts/Functional-Progamming/" rel="alternate" type="text/html" title="Functional Programming (using Ocaml)" />
-    <published>2024-03-31T18:22:12+01:00</published>
+    <published>2024-03-31T19:22:12+01:00</published>
   
-    <updated>2024-03-31T18:22:12+01:00</updated>
+    <updated>2024-03-31T19:22:12+01:00</updated>
   
     <id>https://emc54.github.io/posts/Functional-Progamming/</id>
     <content src="https://emc54.github.io/posts/Functional-Progamming/" />
@@ -168,46 +205,6 @@ Here are some examples:
 pwn.college
 
 An interactive education platform for Arizona State University to complement its Cybersecurity and Computer Systems Securit...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>A button for smart lights</title>
-    <link href="https://emc54.github.io/posts/A-button-for-smartlights/" rel="alternate" type="text/html" title="A button for smart lights" />
-    <published>2022-11-14T19:14:54+00:00</published>
-  
-    <updated>2024-01-16T01:04:50+00:00</updated>
-  
-    <id>https://emc54.github.io/posts/A-button-for-smartlights/</id>
-    <content src="https://emc54.github.io/posts/A-button-for-smartlights/" />
-    <author>
-      <name>Emilios Christou</name>
-    </author>
-
-  
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      You can do two things when buying a knock-off product:
-
-
-  Understand that you might be getting something inferior and accept it.
-You did willingly spend less money, after all. If you don’t want to do that though…
-  You can turn it into a project — to create a (frankly overcomplicated) mess to cover up the inferiorities of the knock-off item you have purchased.
-
-
-Will the second approach cost m...
     </summary>
   
 
