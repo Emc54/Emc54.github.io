@@ -18,7 +18,7 @@ title: Résumé
 _September 2021 - Present_
 
 My current position as an Electrical Engineer II, which amounts to the tasks of a hardware design
-engineer within the company.
+engineer within the company, with additional software duties when they arise.
 
 * **Designed** a PCB, tested, and wrote the firmware for an [RP2040-based](https://thepihut.com/products/tiny-2040) power
 monitoring interposer on a PCIe interface.
@@ -26,9 +26,9 @@ monitoring interposer on a PCIe interface.
 [1U rack server](https://www.entrust.com/digital-security/hsm/products/nshield-hsms/nshield-connect) using ARM Cortex M microcontrollers.
 * **Currently tackling** the development of future products alongside the 5-person hardware team,
 mainly the next generation of the 1U server appliance.
+* **Automating** the capabilities of the lab through python scripts, MQTT, and InfluxDB. 
 
-For 3 months (Jun – Aug 2023), I moved across the organisation to take the role of a software
-engineer.
+##### For 3 months (Jun – Aug 2023), I moved across the organisation to take the role of a software engineer.
 
   * **Set up** the infrastructure, compilation, and linking environment for the
 Cortex M microcontrollers in the controller module.
