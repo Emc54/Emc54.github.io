@@ -4,7 +4,7 @@
   <id>https://emc54.github.io/</id>
   <title>Emilios</title>
   <subtitle>A personal site for documenting interesting things I've been up to.</subtitle>
-  <updated>2024-05-27T19:40:32+01:00</updated>
+  <updated>2024-07-12T20:20:21+01:00</updated>
   <author>
     <name>Emilios Christou</name>
     <uri>https://emc54.github.io/</uri>
@@ -20,11 +20,56 @@
 
   
   <entry>
+    <title>Getting Things Done</title>
+    <link href="https://emc54.github.io/posts/Getting-Things-Done/" rel="alternate" type="text/html" title="Getting Things Done" />
+    <published>2024-05-25T22:04:11+01:00</published>
+  
+    <updated>2024-07-12T20:05:36+01:00</updated>
+  
+    <id>https://emc54.github.io/posts/Getting-Things-Done/</id>
+    <content src="https://emc54.github.io/posts/Getting-Things-Done/" />
+    <author>
+      <name>Emilios Christou</name>
+    </author>
+
+  
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      or at least writing them down.
+
+Preamble
+
+Over the last month I’ve invested my time in improving various often-neglected
+skills.
+I was considering two different avenues:
+
+  How my relationships impact my day-to-day effectiveness.
+  Balancing tasks has become more difficult with increased responsibility.
+
+
+The next couple of posts are a summary of interesting resources I’ve adapted 
+to help cope...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
     <title>A New Framework (Laptop)</title>
     <link href="https://emc54.github.io/posts/Impressons-from-my-Framework-Laptop/" rel="alternate" type="text/html" title="A New Framework (Laptop)" />
     <published>2024-05-25T22:04:11+01:00</published>
   
-    <updated>2024-05-25T22:04:11+01:00</updated>
+    <updated>2024-05-27T19:45:23+01:00</updated>
   
     <id>https://emc54.github.io/posts/Impressons-from-my-Framework-Laptop/</id>
     <content src="https://emc54.github.io/posts/Impressons-from-my-Framework-Laptop/" />
@@ -164,47 +209,6 @@ The first instruction I was given on how to build a website by my Computer Scien
 I was made to write basic HTML with &amp;lt;head&amp;gt; and &amp;lt;body&amp;gt; information in said document, and save it as a .html file.
 As you can imagine, I hated the whole idea.
 It looked jarring and it felt like a ton of work to stylise any given ...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Simple CTF games</title>
-    <link href="https://emc54.github.io/posts/Simple-CTF-games/" rel="alternate" type="text/html" title="Simple CTF games" />
-    <published>2023-06-10T21:00:11+01:00</published>
-  
-    <updated>2024-01-16T01:04:50+00:00</updated>
-  
-    <id>https://emc54.github.io/posts/Simple-CTF-games/</id>
-    <content src="https://emc54.github.io/posts/Simple-CTF-games/" />
-    <author>
-      <name>Emilios Christou</name>
-    </author>
-
-  
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      Adventures in CTF activities
-
-Once in a while, I want a riddle or a puzzle to solve.
-Capture-the-flag challenges are always able to scratch this itch.
-So I’ll spend an afternoon going through an interesting challenge page that I found.
-Here are some examples:
-
-pwn.college
-
-An interactive education platform for Arizona State University to complement its Cybersecurity and Computer Systems Securit...
     </summary>
   
 
