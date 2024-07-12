@@ -7,7 +7,7 @@ tags: [organisation,soft skills]  # TAG names should always be lowercase
 ---
 
 
-_or at least writing them down_
+_or at least writing them down._
 
 
 # Preamble
