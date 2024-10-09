@@ -4,7 +4,7 @@
   <id>https://emc54.github.io/</id>
   <title>Emilios</title>
   <subtitle>A personal site for documenting interesting things I've been up to.</subtitle>
-  <updated>2024-07-12T20:20:21+01:00</updated>
+  <updated>2024-10-09T18:23:01+01:00</updated>
   <author>
     <name>Emilios Christou</name>
     <uri>https://emc54.github.io/</uri>
@@ -17,6 +17,46 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Accessing My Desktop Remotely</title>
+    <link href="https://emc54.github.io/posts/Remote-PC-Access/" rel="alternate" type="text/html" title="Accessing My Desktop Remotely" />
+    <published>2024-09-22T18:03:00+01:00</published>
+  
+    <updated>2024-09-22T18:03:00+01:00</updated>
+  
+    <id>https://emc54.github.io/posts/Remote-PC-Access/</id>
+    <content src="https://emc54.github.io/posts/Remote-PC-Access/" />
+    <author>
+      <name>Emilios Christou</name>
+    </author>
+
+  
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Motivation
+
+I recently wanted to explore how neural networks operate, and set up
+some of the models myself.
+I found a great course and guidance from my peers to get started but was not
+comfortable with how I could get the work done.
+My laptop could be used easily and be brought into the AI office space, but was
+lacking a dedicated GPU.
+My PC has everything it would need to run the models with e...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -52,11 +92,12 @@ Over the last month I’ve invested my time in improving various often-neglected
 skills.
 I was considering two different avenues:
 
+
   How my relationships impact my day-to-day effectiveness.
   Balancing tasks has become more difficult with increased responsibility.
 
 
-The next couple of posts are a summary of interesting resources I’ve adapted 
+The next couple of posts are a summary of interesting resources I’ve adapted
 to help cope...
     </summary>
   
@@ -171,44 +212,6 @@ I’ve understood how websites work on the surface level since I was a teenager.
 At various times, I’ve started HTML documents and got them to display on a browser — simple text and images.
 But it still annoyed me that I couldn’t see how you’d jump from that to a shop page with reactive windows and custom animations.
 So after thinking about this from time to time, I finally...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Playing with CSS</title>
-    <link href="https://emc54.github.io/posts/Playing-with-CSS/" rel="alternate" type="text/html" title="Playing with CSS" />
-    <published>2023-07-12T23:00:00+01:00</published>
-  
-    <updated>2024-01-16T01:04:50+00:00</updated>
-  
-    <id>https://emc54.github.io/posts/Playing-with-CSS/</id>
-    <content src="https://emc54.github.io/posts/Playing-with-CSS/" />
-    <author>
-      <name>Emilios Christou</name>
-    </author>
-
-  
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      Motivation
-
-The first instruction I was given on how to build a website by my Computer Science teacher when I was young, was to open a Word (2003) document.
-
-I was made to write basic HTML with &amp;lt;head&amp;gt; and &amp;lt;body&amp;gt; information in said document, and save it as a .html file.
-As you can imagine, I hated the whole idea.
-It looked jarring and it felt like a ton of work to stylise any given ...
     </summary>
   
 
