@@ -14,7 +14,7 @@ title: Résumé
 
 ## Work Experience
 
-### Software Engineer II at [ENTRUST Corp. DPS](https://www.entrust.com/digital-security/hsm),
+### Software Engineer II at [ENTRUST Corp. DPS](https://www.entrust.com/digital-security/hsm), Cambridge, UK
 
 _January 2025 - Present_
 {:h6}
