@@ -4,23 +4,28 @@ icon: fas fa-file-lines
 order: 4
 tab_name: About
 title: Emilios Christou
-subtitle: Hardware Design Engineer, Firmware and Software Enthusiast 
+subtitle: Software Engineer, Firmware Enthusiast, Former Hardware Engineer
 ---
 
 ![Profile Pic](/assets/img/atwork.jpg){: width="300" .padded-right style="border-radius: 25px;"}
 
- I have two years of experience in hardware electronics design and software engineering.
- I enjoy discovering, learning, and understanding new technologies to find interesting ways of using them.
+As of 2025, I have three years of experience in hardware electronics design and a year in software engineering.
+I enjoy discovering, learning, and understanding new technologies to find interesting ways of using them.
 
- I usually find areas of technology that I have not been exposed to and try to understand their fundamentals through practice, or creating a project to complete.
- A good showcase of what I am currently thinking about would be on the [Projects](/Projects) tab.
+I usually find areas of technology that I have not been exposed to and try to understand their fundamentals through practice, or creating a project to complete.
+A good showcase of what I am currently thinking about would be on the [Projects](/Projects) tab.
 
- I also enjoy puzzles and games as a way of challenging my creativity and lateral thinking.
- A recent favourite is variant sudoku ([killer](http://sudopedia.enjoysudoku.com/Killer.html), [thermo](https://masteringsudoku.com/thermo-sudoku/), and [GAS](https://missingdeck.net/gas-collection-1) - daily random approachable puzzles.)
- I'd also try a cryptic crossword once in a while if there's a newspaper around.
- As for games, recent interesting ones were [Tunic](https://store.steampowered.com/app/553420/TUNIC/), [Chants of Sennaar](https://store.steampowered.com/app/1931770/Chants_of_Sennaar/), and [Outer Wilds](https://store.steampowered.com/app/753640/Outer_Wilds/).
+I also enjoy puzzles and games as a way of challenging my creativity and lateral thinking.
+A recent favourite is variant sudoku ([killer](http://sudopedia.enjoysudoku.com/Killer.html), [thermo](https://masteringsudoku.com/thermo-sudoku/), and [GAS](https://missingdeck.net/gas-collection-1) - daily random approachable puzzles.)
+I'd also try a cryptic crossword once in a while if there's a newspaper around.
+As for games, recent interesting ones were [Tunic](https://store.steampowered.com/app/553420/TUNIC/), [Chants of Sennaar](https://store.steampowered.com/app/1931770/Chants_of_Sennaar/), and [Outer Wilds](https://store.steampowered.com/app/753640/Outer_Wilds/).
 
-## Accomplishments
+## Interests and Accomplishments
+
+### 2024
+
+Joined workshops delivered by [CAISH](https://www.cambridgeaisafety.org/) in an effort to educate myself further on
+the safety/security around Large Language Models, and understand the implications of their continuing development.
 
 ### 12/2021
 
