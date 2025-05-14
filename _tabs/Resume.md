@@ -8,10 +8,6 @@ toc: false
 title: Résumé
 ---
 
-<div style="text-align: right">
-<a href="/assets/files/Christou_CV.pdf"> PDF Version of CV</a>
-</div>
-
 ## Work Experience
 
 ### Software Engineer II at [ENTRUST Corp. DPS](https://www.entrust.com/digital-security/hsm), Cambridge, UK
@@ -19,9 +15,9 @@ title: Résumé
 _January 2025 - Present_
 {:h6}
 
-My current position at the company as a Software Engineer II, where I design core inteface software for Hardware Security Modules.
+My current position at the company as a Software Engineer II, where I design core interface software for Hardware Security Modules.
 
-For 3 months (Jun – Aug 2023), I had trasferred across the organisation while still an Electrical Engineer to tackle software engineering duties.
+For 3 months (Jun – Aug 2023), I had transferred across the organisation while still an Electrical Engineer to tackle software engineering duties.
 {:h6}
 
 - **Set up** the infrastructure, compilation, and linking environment for the
